@@ -1,0 +1,143 @@
+{
+    "data": [
+        {
+            "_id": {
+                "$oid": "64a0efe8ef649de1ffab63c7"
+            },
+            "name": "Amsterdam",
+            "country": "Netherlands",
+            "description": "Amsterdam is the capital of the Netherlands, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city's Golden Age during the 17th century. The Museum District houses the van Gogh Museum, works by Rembrandt and Vermeer at the Rijksmuseum, and modern art at the Stedelijk Museum. Cycling is key to the city's identity and there are several cycling trails.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-2bcda.appspot.com/o/images-MyTinerary%2Famsterdam.jpg?alt=media&token=02e28443-6728-4f53-b4fa-b96a60a9e2d0",
+            "population": {
+                "$numberDouble": "821752.0"
+            },
+            "__v": {
+                "$numberInt": "0"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64a33107ca61295ebaa5b5eb"
+            },
+            "name": "Barcelona",
+            "country": "Spain",
+            "description": "Barcelona, the cosmopolitan capital of the Catalonia region of Spain, is known for it's art and architecture. The fantastic Sagrada Familia church and other modernist landmarks designed by Antoni Gaudí adorn the city. The Picasso Museum and the Joan Miró Foundation showcase the modern art of the artists who gave birth to their names. The Museum of the History of Barcelona (MUHBA) includes several Roman archaeological sites.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-2bcda.appspot.com/o/images-MyTinerary%2Fbarcelona.jpg?alt=media&token=42cb2f48-b091-4ad8-b7c7-2c4ef6ec43ae",
+            "population": {
+                "$numberInt": "1667890"
+            },
+            "__v": {
+                "$numberInt": "0"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64a33108ca61295ebaa5b5ee"
+            },
+            "name": "Berlin",
+            "country": "German",
+            "description": "Berlin, the German capital, dates back to the 13th century. Reminders of the city's turbulent 20th century history include the Holocaust Memorial and the graffitied remains of the Berlin Wall. After being divided during the Cold War, the 18th-century Brandenburg Gate became a symbol of reunification. The city is known for its artistic ambience and modern geographic sites, such as the Berlin Philharmonic, built in 1963, gold-colored and with a design of panels peeking out of its roof.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-2bcda.appspot.com/o/images-MyTinerary%2Fberlin.jpg?alt=media&token=7a5b837c-579e-4d22-b9a8-dc46e146f4e8",
+            "population": {
+                "$numberDouble": "3566645.0"
+            },
+            "__v": {
+                "$numberInt": "0"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64a420252a918fec9dd4962e"
+            },
+            "name": "Buenos Aires",
+            "country": "Argentina",
+            "description": "Buenos Aires is the great cosmopolitan capital of Argentina. It's center is the Plaza de Mayo, surrounded by imposing 19th-century buildings, including the Casa Rosada, the iconic presidential palace with several balconies. Other major attractions include the Teatro Colón, a luxurious 1908 opera house with about 2,500 seats, and the modern MALBA museum, which exhibits Latin American art.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-2bcda.appspot.com/o/images-MyTinerary%2Fbuenosaires.jpg?alt=media&token=25897d9b-2115-40bf-a15f-d76889738799",
+            "population": {
+                "$numberInt": "3121612"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64a421c02a918fec9dd4962f"
+            },
+            "name": "Dubai",
+            "country": "United Arab Emirates",
+            "description": "Dubai is an emirate city in the United Arab Emirates known for its luxurious commerce, ultra-modern architecture and lively nightlife. Burj Khalifa, an 830 m high tower, dominates the skyscraper-filled landscape. At its foot is the Dubai Fountain, with choreographed jets and lights choreographed to music. On the artificial islands just off the coast are Atlantis, the Palm, a resort with water and marine animal parks.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-2bcda.appspot.com/o/images-MyTinerary%2Fdubai.jpg?alt=media&token=5e80594b-2af4-4324-941f-239de9d45856",
+            "population": {
+                "$numberInt": "345331"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64a422a62a918fec9dd49630"
+            },
+            "name": "London",
+            "country": "United Kingdom",
+            "description": "London, the capital of England and the United Kingdom, is a 21st century city with a history dating back to Roman times. At its center stand the imposing Houses of Parliament, the iconic \"Big Ben\" clock tower and Westminster Abbey, the site of Britain's monarchical coronations. On the other side of the River Thames, the London Eye observation wheel offers panoramic views of the South Bank cultural complex and the entire city.",
+            "population": "483764",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-2bcda.appspot.com/o/images-MyTinerary%2Flondon.jpg?alt=media&token=ec445157-c559-4903-849f-44726df74f48"
+        },
+        {
+            "_id": {
+                "$oid": "64a423782a918fec9dd49631"
+            },
+            "name": " New York City",
+            "country": "United States of America",
+            "description": "New York City is the most populous city in the United States of America and one of the most populous in the world, with an urban area of 24 million inhabitants. Since the end of the 19th century, it has been one of the centers of world politics and economics, housing the headquarters of the United Nations and numerous companies and financial institutions of global importance. New York exerts influence on a global scale in the media, politics, education, architecture, entertainment, the arts and fashion. ",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-2bcda.appspot.com/o/images-MyTinerary%2Fnewyork.jpg?alt=media&token=f6e3321b-cb5b-4b30-907b-fb90908c818f",
+            "population": "8454771"
+        },
+        {
+            "_id": {
+                "$oid": "64a428cf2a918fec9dd49632"
+            },
+            "name": "Paris",
+            "country": "France",
+            "description": "Paris, the capital of France, is a major European city and a world center of art, fashion, gastronomy and culture. Its 19th century cityscape is crisscrossed by wide boulevards and the Seine River. Apart from these landmarks, such as the Eiffel Tower and the 12th-century Gothic Notre Dame cathedral, the city is famous for its café culture and designer fashion stores along the Rue du Faubourg Saint-Honoré.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-2bcda.appspot.com/o/images-MyTinerary%2Fparis.jpg?alt=media&token=46eb240e-c307-49d7-b903-d6dc7f3ae6a8",
+            "population": "2334881"
+        },
+        {
+            "_id": {
+                "$oid": "64a429632a918fec9dd49633"
+            },
+            "name": "Rome",
+            "country": "Italy",
+            "description": "Rome, the capital of Italy, is a sprawling cosmopolitan city with nearly 3,000 years of world-influenced art, architecture and culture on display. Ancient ruins such as the Forum and Colosseum evoke the power of the ancient Roman Empire. Vatican City, headquarters of the Roman Catholic Church, features St. Peter's Basilica and the Vatican Museums, which house masterpieces such as Michelangelo's Sistine Chapel frescoes.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-2bcda.appspot.com/o/images-MyTinerary%2Frome.jpg?alt=media&token=be3e8c98-3e62-4133-b54b-4ee6a255f431",
+            "population": "2871223"
+        },
+        {
+            "_id": {
+                "$oid": "64a42a532a918fec9dd49634"
+            },
+            "name": "San francisco",
+            "country": "United States",
+            "description": "San Francisco, in northern California, is a hilly city at the tip of a peninsula surrounded by the Pacific Ocean and San Francisco Bay. It is famous for its year-round fog, iconic Golden Gate Bridge, streetcars and colorful Victorian houses. The Transamerica Pyramid in the Financial District is the most distinctive skyscraper. Alcatraz Island, site of the famous former prison, is located in the bay.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-2bcda.appspot.com/o/images-MyTinerary%2Fsanfrancisco.jpg?alt=media&token=6c371d2b-8b0d-48d4-bf56-a4a06eaefa01",
+            "population": "2123766"
+        },
+        {
+            "_id": {
+                "$oid": "64a42b2b2a918fec9dd49635"
+            },
+            "name": "Sydney",
+            "country": "Australia",
+            "description": "Sydney, capital of New South Wales and one of Australia's largest cities, is famous for its Sydney Harbourside Opera House, with a distinctive sail-shaped design. The massive Darling Harbour and the smaller Circular Quay harbor are hubs of riverside life, with the arched Sydney Harbour Bridge and the renowned Royal Botanic Gardens nearby. Sydney Tower's outdoor platform, the Skywalk, offers 360-degree views of the city and suburbs.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-2bcda.appspot.com/o/images-MyTinerary%2Fsydney.jpg?alt=media&token=79928394-15f9-4a78-88ec-10b2e9578d7f",
+            "population": "3111654"
+        },
+        {
+            "_id": {
+                "$oid": "64a42bbc2a918fec9dd49636"
+            },
+            "name": "Tokyo",
+            "country": "Japan",
+            "description": "Tokyo, Japan's bustling capital, blends the ultra-modern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Shinto Meiji Shrine is known for its soaring gate and surrounding forests. The Imperial Palace sits amid large public gardens. The city's various museums offer exhibits ranging from classical art.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-2bcda.appspot.com/o/images-MyTinerary%2Ftokyo.jpg?alt=media&token=57386a16-23c4-418c-8e1c-137c00226b97",
+            "population": "13446234"
+        }
+    ]
+}
